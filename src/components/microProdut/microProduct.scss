@@ -1,0 +1,18 @@
+.microProduct {
+    border: 0px solid rgba(0,0,0,.125);
+    .price {
+        font-weight: bold;
+    }
+    .pricewithdiscount {
+        color: grey;
+        font-weight: bold;
+    }
+    .discountPerText{
+        color:green;
+        font-weight: bold;
+    }
+    .roundCartButton {
+        border-radius: 20px;
+        font-weight: bold;
+    }
+}
